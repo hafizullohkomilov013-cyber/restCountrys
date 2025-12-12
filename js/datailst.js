@@ -12,7 +12,7 @@ detels.innerHTML = `
   <img src="${findArr.flag}" alt="${findArr.name}" />
   <div class = "country2">
     <h2>${findArr.name}</h2>
-
+              
     <div class = "box1">
         <div>
           <p><strong>Population :</strong> ${findArr.population}</p>
